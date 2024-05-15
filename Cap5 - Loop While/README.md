@@ -1,4 +1,4 @@
-## Loop While
+## Capítulo 5 - Loop While
 
 **Usando o loop while para imprimir os valores de 0 a 9**
 A condição tem que deixar de ser verdadeira dentro do loop, senão pode travar o navegador ou mesmo o computador
